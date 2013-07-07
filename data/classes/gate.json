@@ -1,0 +1,11 @@
+{
+    "alternativeState": {
+        "sprite": "gateopen.png",
+        "flags": "Toggleable"
+    },
+    "flags": "Toggleable|Obstacle",
+    "identifier": "Gate",
+    "name": "Gate",
+    "sprite": "gateclosed.png",
+    "zIndex": 102
+}

@@ -1,0 +1,7 @@
+{
+    "animationType": "Random",
+    "flags": "Liquid",
+    "frames": ["water1.png", "water2.png", "water3.png"],
+    "name": "Water",
+    "sprite": "water1.png"
+}

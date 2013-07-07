@@ -1,0 +1,7 @@
+{
+    "flags": "Floatable|Movable",
+    "name": "Raft",
+    "sprite": "raft.png",
+    "weight": 10,
+    "zIndex": 1
+}

@@ -1,0 +1,6 @@
+{
+    "flags": "Player",
+    "name": "Player",
+    "sprite": "player.png",
+    "zIndex": 100
+}

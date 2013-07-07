@@ -1,0 +1,11 @@
+{
+    "animationType": "Once",
+    "direction": [-1, 0],
+    "flags": "Deadly|Player",
+    "frames": ["object1.png", "object2.png"],
+    "identifier": "Lollypop",
+    "movementType": "Clockwise",
+    "name": "Object One",
+    "sprite": "object1.png",
+    "zIndex": 42
+}

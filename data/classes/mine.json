@@ -1,0 +1,7 @@
+{
+    "flags": "Explodable",
+    "name": "Mine",
+    "sprite": "mine.png",
+    "weight": 0,
+    "zIndex": 0
+}

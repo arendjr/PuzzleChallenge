@@ -1,0 +1,8 @@
+{
+    "direction": [1, 0],
+    "flags": "Deadly",
+    "movementType": "Horizontal",
+    "name": "Green Ball H",
+    "sprite": "greenball.png",
+    "zIndex": 2
+}

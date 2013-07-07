@@ -1,0 +1,9 @@
+{
+    "direction": [-1, 0],
+    "flags": "Deadly",
+    "frames": ["purplecreatureleft.png", "purplecreatureup.png", "purplecreatureright.png", "purplecreaturedown.png"],
+    "movementType": "Clockwise",
+    "name": "Purple Creature",
+    "sprite": "purplecreatureleft.png",
+    "zIndex": 2
+}

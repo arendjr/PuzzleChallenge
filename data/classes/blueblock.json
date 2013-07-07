@@ -1,0 +1,7 @@
+{
+    "flags": "Movable|Obstacle",
+    "name": "Blue Block",
+    "sprite": "blueblock.png",
+    "weight": 100,
+    "zIndex": 2
+}

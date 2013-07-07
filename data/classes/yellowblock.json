@@ -1,0 +1,7 @@
+{
+    "flags": "Movable|Obstacle",
+    "name": "Yellow Block",
+    "sprite": "yellowblock.png",
+    "weight": 1,
+    "zIndex": 2
+}

@@ -1,0 +1,6 @@
+{
+    "flags": "Exit",
+    "name": "Exit",
+    "sprite": "exit.png",
+    "weight": 1000
+}

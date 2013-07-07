@@ -1,0 +1,9 @@
+{
+    "animationType": "Once",
+    "flags": "Deadly",
+    "frames": ["explosion.png","explosion.png"],
+    "name": "Explosion",
+    "showInEditor": false,
+    "sprite": "explosion.png",
+    "zIndex": 101
+}

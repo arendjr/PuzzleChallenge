@@ -1,0 +1,7 @@
+{
+    "flags": "TemporaryTrigger",
+    "identifier": "Gate",
+    "name": "Button",
+    "sprite": "button.png",
+    "zIndex": 0
+}

@@ -1,0 +1,7 @@
+{
+    "animationType": "Once",
+    "frames": ["splash.png","splash.png"],
+    "name": "Splash",
+    "sprite": "splash.png",
+    "zIndex": 5
+}
