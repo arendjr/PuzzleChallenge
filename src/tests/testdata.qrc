@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/testdata">
         <file alias="object1.json">data/classes/object1.json</file>
+        <file alias="class1.json">data/classes/class1.json</file>
     </qresource>
 </RCC>

@@ -16,14 +16,9 @@ class GameObjectClassTest : public TestCase {
     Q_OBJECT
 
     private slots:
-        void initTestCase() {
-
-            MetaTypeRegistry::registerMetaTypes();
-        }
-
         void testLoadJson() {
 
-            QFile file(":/testdata/object1.json");
+            QFile file(":/testdata/class1.json");
             file.open(QIODevice::ReadOnly);
             QJsonDocument document = QJsonDocument::fromJson(file.readAll());
 
@@ -36,7 +31,7 @@ class GameObjectClassTest : public TestCase {
             QCOMPARE(objectClass.frames(), QStringLiteral("object1.png,object2.png").split(','));
             QCOMPARE(objectClass.identifier(), QStringLiteral("Lollypop"));
             QCOMPARE(objectClass.movementType(), MovementType(MovementType::Clockwise));
-            QCOMPARE(objectClass.name(), QStringLiteral("Object One"));
+            QCOMPARE(objectClass.name(), QStringLiteral("First Class"));
             QCOMPARE(objectClass.sprite(), QStringLiteral("object1.png"));
             QCOMPARE(objectClass.zIndex(), 42);
         }
